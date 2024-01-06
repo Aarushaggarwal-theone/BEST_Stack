@@ -8,3 +8,5 @@ CREATE TABLE IF NOT EXISTS blog_posts (
     publication_date DATE DEFAULT CURRENT_DATE,
     category TEXT
 );
+
+-- Also insert a few data rows for testing
