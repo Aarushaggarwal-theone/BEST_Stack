@@ -1,0 +1,10 @@
+
+-- Create a table for blog posts
+CREATE TABLE IF NOT EXISTS blog_posts (
+    post_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    title TEXT NOT NULL,
+    content TEXT NOT NULL,
+    author_name TEXT NOT NULL,
+    publication_date DATE DEFAULT CURRENT_DATE,
+    category TEXT
+);
