@@ -1,4 +1,4 @@
-# BEST stack boiler plate
+# Trying out the BEST STACK
 
 Bun Elysia Svelte Turso
 
