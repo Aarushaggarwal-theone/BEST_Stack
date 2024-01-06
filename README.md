@@ -1,13 +1,11 @@
-# Elysia with Bun runtime
+# BEST stack boiler plate
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+Bun Elysia Svelte Turso
 
 ## Development
+
 To start the development server run:
+
 ```bash
 bun run dev
 ```
